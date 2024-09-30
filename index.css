@@ -64,6 +64,10 @@ div{
 a{
     color: white;
 }
+
+a:hover{
+    background-color: green;
+}
  
 ::selection{
     background-color: green;
